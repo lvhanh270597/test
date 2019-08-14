@@ -1,1 +1,1 @@
-echo `date +"%T"` > ~/test.txt
+echo `date +"%T"` > test.txt
